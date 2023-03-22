@@ -237,7 +237,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(5, 13, 24, 0.4);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -268,7 +268,7 @@ h6 {
 }
 
 #hero p span {
-  color: #149ddd;
+  color: yellowgreen;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -1149,4 +1149,9 @@ section {
 
   }
   
+}
+
+
+.menu-item-hover:hover{
+  transform: scale(1.1);
 }
