@@ -1005,7 +1005,12 @@
           const el = document.getElementById("list-imgcpl")
           for (let i = 0; i < collections.length; i++) {
               el.innerHTML +=
-                  "<div class='col-lg-4 col-md-6 portfolio-item filter-cpl'><div class='portfolio-wrap'><img class='img-fluid img-front' src='" + collections[i].imgFront + "' alt='' title='" + collections[i].title + "'><img class='img-fluid img-back' src='" + collections[i].imgBack + "' alt='' title='" + collections[i].title + "'></div></div>"
+                  "<div class='col-lg-4 col-md-6 portfolio-item filter-cpl'>\
+                    <div class='portfolio-wrap'>\
+                      <img class='img-fluid img-front' src='" + collections[i].imgFront + "' alt='' title='" + collections[i].title + "'>\
+                      <img class='img-fluid img-back' src='" + collections[i].imgBack + "' alt='' title='" + collections[i].title + "'>\
+                    </div>\
+                  </div>"
           }
           let countt = collections.length;
           let pureCounterEl = document.querySelector('.cpl-img');
