@@ -90,24 +90,6 @@ function openWindow() {
 }
 
 
-// Hộp nhẫn
-var ringBoxes = document.querySelectorAll('.ring-box');
-
-ringBoxes.forEach(function (box) {
-    var ringDetails = box.querySelector('.ring-details');
-    var baseElement = box.querySelector('.base');
-
-    ringDetails.querySelectorAll('img').forEach(function (image) {
-        image.addEventListener('mouseover', function () {
-            baseElement.style.filter = 'brightness(100%)';
-        });
-
-        image.addEventListener('mouseout', function () {
-            baseElement.style.filter = 'brightness(70%)';
-        });
-    });
-});
-
 
 // Preloader
 window.addEventListener("load", function () {

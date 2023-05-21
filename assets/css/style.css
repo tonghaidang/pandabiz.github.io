@@ -1275,6 +1275,14 @@ section {
   border-radius: 50%;
 }
 
+.ring-details img:first-child {
+  margin-right: -10px;
+}
+
+.ring-details img:last-child {
+  margin-left: -10px;
+}
+
 .ring-details>img:hover {
   transform: translateY(-20px) scale(1.2);
   cursor: pointer;
