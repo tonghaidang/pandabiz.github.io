@@ -102,15 +102,15 @@ window.addEventListener("load", function () {
 
 
 // Tính ngày từ 01-04-2022
-// const startDate = new Date('2022-03-04');
-// const today = new Date();
-// const timeDiff = Math.abs(today.getTime() - startDate.getTime());
-// const dayDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
+const startDate = new Date('2023-07-20');
+const today = new Date();
+const timeDiff = Math.abs(today.getTime() - startDate.getTime());
+const dayDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
 
-// const counters = document.getElementsByClassName('withday');
-// for (let i = 0; i < counters.length; i++) {
-//     counters[i].setAttribute('data-purecounter-end', dayDiff);
-// }
+const counters = document.getElementsByClassName('withday');
+for (let i = 0; i < counters.length; i++) {
+    counters[i].setAttribute('data-purecounter-end', dayDiff + 449);
+}
 
 // Button back to top
 const btnBackToTop = document.querySelector('.back-to-top');
