@@ -119,7 +119,7 @@ btnBackToTop.addEventListener('click', function () {
 });
 
 // Update title
-var titles = ['Tiểu Sen', 'Đại Boss', '01 - 04 - 2022', 'Tiểu Sen ❤ Đại Boss']; // danh sách các tiêu đề
+var titles = [' Lebáo ', ' Aibáo ', '01 - 04 - 2022', ' Lebáo  ❤  Ai báo']; // danh sách các tiêu đề
 
 function changeTitle() {
     var i = 0;

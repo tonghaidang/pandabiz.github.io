@@ -2,116 +2,116 @@ const collections = [
     {
         "index": 1,
         "title": "5K",
-        "imgBack": "https://i.pinimg.com/564x/2e/a7/19/2ea719181ee83844c413d9b94644faf2.jpg",
-        "imgFront": "https://i.pinimg.com/564x/1a/2b/59/1a2b59aa2291b2643ff78196a8981625.jpg"
+        "imgBack": "https://i.ibb.co/Xkg8ZQR/1.png",
+        "imgFront": "https://i.ibb.co/YB9Jkb9/1.png"
     },
     {
         "index": 2,
         "title": "Full Đen",
-        "imgBack": "https://i.pinimg.com/564x/5d/4f/47/5d4f47c4155b21246f6247200adb2c74.jpg",
-        "imgFront": "https://i.pinimg.com/564x/ef/18/b2/ef18b2add4c7ded256810416e770ca63.jpg"
+        "imgBack": "https://i.ibb.co/Q9vPNFd/2.png",
+        "imgFront": "https://i.ibb.co/ZJH9Ysg/2.png"
     },
     {
         "index": 3,
         "title": "Mafia Ú Oà",
-        "imgBack": "https://i.pinimg.com/564x/0e/27/be/0e27be04711026b7e623352cbc1fe557.jpg",
-        "imgFront": "https://i.pinimg.com/564x/20/2a/fd/202afd94ccdd1911682e59d91962d46c.jpg"
+        "imgBack": "https://i.ibb.co/JBCS7Xw/3.png",
+        "imgFront": "https://i.ibb.co/2qZBfKY/3.png"
     },
     {
         "index": 4,
         "title": "MaTrix",
-        "imgBack": "https://i.pinimg.com/564x/3f/14/c2/3f14c214d49570883d45a12812762572.jpg",
-        "imgFront": "https://i.pinimg.com/564x/a5/d0/dd/a5d0dd3e3f925939c14b7c93d06c85a6.jpg"
+        "imgBack": "https://i.ibb.co/2NfwW4k/4.png",
+        "imgFront": "https://i.ibb.co/vJnQFdw/4.png"
     },
     {
         "index": 5,
         "title": "Thiên Thần Bóng Tối",
-        "imgBack": "https://i.pinimg.com/564x/e7/e2/ef/e7e2efcb31a2941ca0c7bdd692af2e6f.jpg",
-        "imgFront": "https://i.pinimg.com/564x/dd/e7/e3/dde7e33945bf478b10ec6ad23f07bc16.jpg"
+        "imgBack": "https://i.ibb.co/PYp70xN/5.png",
+        "imgFront": "https://i.ibb.co/F5gkshV/5.png"
     },
     {
         "index": 6,
         "title": "Yang Lake",
-        "imgBack": "https://i.pinimg.com/564x/d3/71/54/d3715470fe58ff5728be26d489e59695.jpg",
-        "imgFront": "https://i.pinimg.com/564x/7e/fc/c0/7efcc0c07efac522ae05389a41f1e62a.jpg"
+        "imgBack": "https://i.ibb.co/rZbHztB/6.png",
+        "imgFront": "https://i.ibb.co/sQCX5gP/6.png"
     },
     {
         "index": 7,
         "title": "Đám Tang",
-        "imgBack": "https://i.pinimg.com/564x/8e/c6/6f/8ec66fc9de53539313003976eb23106f.jpg",
-        "imgFront": "https://i.pinimg.com/564x/97/d4/f8/97d4f869c4eff53c45b6ff8133962ec5.jpg"
+        "imgBack": "https://i.ibb.co/xFQgK1p/7.png",
+        "imgFront": "https://i.ibb.co/g7sYr9m/7.png"
     },
     {
         "index": 8,
         "title": "Ngựa Vằn",
-        "imgBack": "https://i.pinimg.com/564x/97/83/bd/9783bdd056d5adad9f5beb494478a30f.jpg",
-        "imgFront": "https://i.pinimg.com/564x/87/3d/bc/873dbca1809e4469941e868a0c8cf72a.jpg"
+        "imgBack": "https://i.ibb.co/hHfJMxj/8.png",
+        "imgFront": "https://i.ibb.co/q1K1bm0/8.png"
     },
     {
         "index": 9,
         "title": "Len Đen",
-        "imgBack": "https://i.pinimg.com/564x/2b/ff/54/2bff5435a1e68dc12683daf863de0456.jpg",
-        "imgFront": "https://i.pinimg.com/564x/62/8b/b6/628bb6cac93e3603644aec79de373d37.jpg"
+        "imgBack": "https://i.ibb.co/6RsrhYW/9.png",
+        "imgFront": "https://i.ibb.co/xG28GZ4/9.png"
     },
     {
         "index": 10,
         "title": "Jacket Da",
-        "imgBack": "https://i.pinimg.com/564x/83/e9/c2/83e9c2564b670654813140cb37b10f2d.jpg",
-        "imgFront": "https://i.pinimg.com/564x/60/57/8a/60578a2113a99c3dae25d68e7d3beb40.jpg"
+        "imgBack": "https://i.ibb.co/ggfBDY5/10.png",
+        "imgFront": "https://i.ibb.co/1rSYYFX/10.png"
     },
     {
         "index": 11,
         "title": "Nghim Túc",
-        "imgBack": "https://i.pinimg.com/564x/0d/40/d9/0d40d9b5956c2f356608778f81fb7007.jpg",
-        "imgFront": "https://i.pinimg.com/564x/19/85/ea/1985ea23e1b662876ed4d7704d0caaea.jpg"
+        "imgBack": "https://i.ibb.co/hRpHBHR/11.png",
+        "imgFront": "https://i.ibb.co/4YRw7GT/11.png"
     },
     {
         "index": 12,
         "title": "Trốn Nợ Mùa World Cup",
-        "imgBack": "https://i.pinimg.com/564x/7f/cb/ed/7fcbedaa7f3fe05f4d45829953de7ccd.jpg",
-        "imgFront": "https://i.pinimg.com/564x/b3/be/da/b3bedac1eda5da37d8e7a44cc6559f2d.jpg"
+        "imgBack": "https://i.ibb.co/GxzXhzq/12.png",
+        "imgFront": "https://i.ibb.co/NpqZfZP/12.png"
     },
     {
         "index": 13,
         "title": "Áo Karo",
-        "imgBack": "https://i.pinimg.com/564x/60/66/ac/6066ac3cb4925e72e2b9cd726d2fdeaa.jpg",
-        "imgFront": "https://i.pinimg.com/564x/d9/30/f4/d930f459f090b5b52de0645cd6ec9a9d.jpg"
+        "imgBack": "https://i.ibb.co/5jhRtgy/13.png",
+        "imgFront": "https://i.ibb.co/V9qPTWM/13.png"
     },
     {
         "index": 14,
         "title": "Vé Số",
-        "imgBack": "https://i.pinimg.com/564x/69/f6/91/69f691806c128aa511a2fb143815e60e.jpg",
-        "imgFront": "https://i.pinimg.com/564x/87/12/4a/87124aa011570b73dd5ad36d2b97774d.jpg"
+        "imgBack": "https://i.ibb.co/SwJLKSL/14.png",
+        "imgFront": "https://i.ibb.co/TRfND9w/14.png"
     },
     {
         "index": 17,
         "title": "",
-        "imgBack": "https://i.pinimg.com/564x/75/8f/4a/758f4a6cdabe3fdfde527fee852bdf42.jpg",
-        "imgFront": "https://i.pinimg.com/564x/c4/79/3c/c4793c2e8b19e9cbbf5fe9b5327f5bb3.jpg"
+        "imgBack": "https://i.ibb.co/MfBTFjV/17.png",
+        "imgFront": "https://i.ibb.co/1zZ0BBT/17.png"
     },
     {
         "index": 16,
         "title": "",
-        "imgBack": "https://i.pinimg.com/564x/4f/35/9f/4f359f52e08a4e2d0560634942ef6b8d.jpg",
-        "imgFront": "https://i.pinimg.com/564x/45/dd/f0/45ddf0c600714f688b6d5d7f4bfd8782.jpg"
+        "imgBack": "https://i.ibb.co/tp4Mgsc/16.png",
+        "imgFront": "https://i.ibb.co/znyZRJN/16.png"
     },
     {
         "index": 18,
         "title": "Trắng Đen",
-        "imgBack": "https://i.pinimg.com/564x/7a/73/ea/7a73ea540a9576e46f8b38c80f644ee4.jpg",
-        "imgFront": "https://i.pinimg.com/564x/1b/66/e1/1b66e14322912de0ed0b12f877a22f10.jpg"
+        "imgBack": "https://i.ibb.co/JkLXg17/18.png",
+        "imgFront": "https://i.ibb.co/bs9ynKP/18.png"
     },
     {
         "index": 20,
         "title": "Lấp Lánh",
-        "imgBack": "https://i.pinimg.com/564x/82/ad/ab/82adab8eb8bdd943f5d6cfe3240e1458.jpg",
-        "imgFront": "https://i.pinimg.com/564x/da/4a/ea/da4aea0294288c2a279ca8a863faca65.jpg"
+        "imgBack": "https://i.ibb.co/bz7gbmW/20.png",
+        "imgFront": "https://i.ibb.co/XxQgVjH/20.png"
     },
     {
         "index": 19,
         "title": "Bad Gơ & Gút Boiz",
-        "imgBack": "https://i.pinimg.com/564x/c4/3d/37/c43d379697434609cb668aa72958b946.jpg",
-        "imgFront": "https://i.pinimg.com/564x/73/2c/23/732c23d8f34efb54bbbb4e06477e9708.jpg"
+        "imgBack": "https://i.ibb.co/ck5x8j0/19.png",
+        "imgFront": "https://i.ibb.co/YfdcVK9/19.png"
     },
     {
         "index": 28,
@@ -584,8 +584,8 @@ const collections = [
     {
         "index": 15,
         "title": "",
-        "imgBack": "https://i.pinimg.com/564x/f7/fa/12/f7fa12ba891c8b33d16772e2b3076fb7.jpg",
-        "imgFront": "https://i.pinimg.com/564x/d9/fe/c3/d9fec30b93a8cc04372bdf8cfae89e08.jpg"
+        "imgBack": "https://i.ibb.co/4SvSx1q/15.png",
+        "imgFront": "https://i.ibb.co/FmtPwZY/15.png"
     },
     {
         "index": 105,

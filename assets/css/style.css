@@ -528,6 +528,8 @@ section {
   overflow: hidden;
   z-index: 1;
   cursor: pointer;
+  background-size: contain;
+  background-image: url(../img/bg.png);
 }
 
 
