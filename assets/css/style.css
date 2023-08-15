@@ -1038,6 +1038,9 @@ section {
   transition: opacity 1s ease-in-out;
 }
 
+.img-front{
+  filter: drop-shadow(-5px -5px 5px #413c3c);
+}
 
 .portfolio-item:hover .portfolio-wrap .img-back {
   opacity: 1;
@@ -1529,3 +1532,4 @@ section {
 .about{
   background-color: #f5f8fd;
 }
+
