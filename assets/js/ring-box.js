@@ -1,9 +1,9 @@
 const ringBox = [
     {
         "index": "1",
-        "srcr1": "https://i.ibb.co/XDqbhSx/1.png",
-        "srcr2": "https://i.ibb.co/rx1w8Cj/abc.png",
-        "srcr3": "https://i.ibb.co/mJdrFpM/def.png",
+        "srcr1": "https://i.ibb.co/5v26tKF/1.png",
+        "srcr2": "https://i.ibb.co/bLrQP4n/2.png",
+        "srcr3": "https://i.ibb.co/vww52mr/3.png",
         "titler1": "♥ Cặp đôi mới cưới ♥",
         "titler2": "♥ Nhẫn Kính Tim Gấu Dingdong ♥",
         "titler3": "♥ Nhẫn sao, vĩnh cửu, My Destiny ♥"
