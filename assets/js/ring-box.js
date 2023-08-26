@@ -1,13 +1,13 @@
 const ringBox = [
     {
         "index": "1",
-        "srcr1": "https://i.pinimg.com/564x/43/3e/82/433e825b287be0cb71abe27e83bee746.jpg",
-        "srcr2": "https://i.pinimg.com/564x/cd/97/c1/cd97c153ccba31cfc8720f355ffe0673.jpg",
-        "srcr3": "https://i.pinimg.com/564x/c7/d4/3e/c7d43ec7bddbc2efc36af45cf55e7408.jpg",
+        "srcr1": "https://i.ibb.co/XDqbhSx/1.png",
+        "srcr2": "https://i.ibb.co/rx1w8Cj/abc.png",
+        "srcr3": "https://i.ibb.co/mJdrFpM/def.png",
         "titler1": "♥ Cặp đôi mới cưới ♥",
-        "titler2": "♥ Cặp đôi vui vẻ ♥",
-        "titler3": "♥ Cặp đôi Đồng ♥"
-    },
+        "titler2": "♥ Nhẫn Kính Tim Gấu Dingdong ♥",
+        "titler3": "♥ Nhẫn sao, vĩnh cửu, My Destiny ♥"
+    }/*,
     {
         "index": "2",
         "srcr1": "https://i.pinimg.com/564x/7e/ac/cd/7eaccd35fca1b4e2063dd95fafc85d2c.jpg",
@@ -79,7 +79,7 @@ const ringBox = [
         "titler1": "♥ Nhẫn Shapire vô tình ♥",
         "titler2": "♥ Nhẫn Mắt mèo đá xanh ♥",
         "titler3": "♥ Nhẫn Black Galaxy ♥"
-    }
+    }*/
 ];
 
 let soluongX = ringBox.length;
