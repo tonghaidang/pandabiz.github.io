@@ -266,8 +266,8 @@ const collections = [
     {
         "index": 45,
         "title": "Đi Bụi",
-        "imgBack": "https://i.ibb.co/9r4mhWX/45.png",
-        "imgFront": "https://i.ibb.co/pXBXB6K/45.png"
+        "imgBack": "https://i.ibb.co/3rxGmCv/45.png",
+        "imgFront": "https://i.ibb.co/Jph6dkV/45.png"
     },
     {
         "index": 46,
@@ -646,6 +646,42 @@ const collections = [
         "title": "Khoác Đen",
         "imgBack": "https://i.ibb.co/wL7jXJ0/108.png",
         "imgFront": "https://i.ibb.co/DgZQRg3/108.png"
+    },
+    {
+        "index": 109,
+        "title": "",
+        "imgBack": "https://i.ibb.co/mbkxYGg/109.png",
+        "imgFront": "https://i.ibb.co/HXS95HM/109.png"
+    },
+    {
+        "index": 110,
+        "title": "",
+        "imgBack": "https://i.ibb.co/pb6mtqG/110.png",
+        "imgFront": "https://i.ibb.co/wrVjPL9/110.png"
+    },
+    {
+        "index": 111,
+        "title": "",
+        "imgBack": "https://i.ibb.co/xDg2FYT/111.png",
+        "imgFront": "https://i.ibb.co/rtGPnL1/111.png"
+    },
+    {
+        "index": 112,
+        "title": "",
+        "imgBack": "https://i.ibb.co/ystcSzH/112.png",
+        "imgFront": "https://i.ibb.co/gwcx6T0/112.png"
+    },
+    {
+        "index": 113,
+        "title": "",
+        "imgBack": "https://i.ibb.co/n7FmZLY/113.png",
+        "imgFront": "https://i.ibb.co/ZfRTB3b/113.png"
+    },
+    {
+        "index": 114,
+        "title": "",
+        "imgBack": "https://i.ibb.co/bgYGGQs/114.png",
+        "imgFront": "https://i.ibb.co/vx8CbLP/114.png"
     }
 ]
 
