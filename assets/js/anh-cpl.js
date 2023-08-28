@@ -61,9 +61,9 @@ const collections = [
     },
     {
         "index": 11,
-        "title": "",
-        "imgBack": "https://i.ibb.co/QJs9SZG/114.png",
-        "imgFront": "https://i.ibb.co/s13FpJd/114.png"
+        "title": "Xanh Lá",
+        "imgBack": "https://i.ibb.co/VMtSbWw/49.png",
+        "imgFront": "https://i.ibb.co/jVMpLsk/49.png"
     },
     {
         "index": 12,
@@ -289,9 +289,9 @@ const collections = [
     },
     {
         "index": 49,
-        "title": "Xanh Lá",
-        "imgBack": "https://i.ibb.co/VMtSbWw/49.png",
-        "imgFront": "https://i.ibb.co/jVMpLsk/49.png"
+        "title": "",
+        "imgBack": "https://i.ibb.co/QJs9SZG/114.png",
+        "imgFront": "https://i.ibb.co/s13FpJd/114.png"
     },
     {
         "index": 50,
