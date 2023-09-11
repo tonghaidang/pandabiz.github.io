@@ -152,7 +152,7 @@ const collections = [
     {
         "index": 26,
         "title": "",
-        "imgBack": "https://i.ibb.co/cQ6Jgj7/24.png",
+        "imgBack": "https://i.ibb.co/9p7SqXS/24.png",
         "imgFront": "https://i.ibb.co/zStJZ0W/24.png"
     },
     {
